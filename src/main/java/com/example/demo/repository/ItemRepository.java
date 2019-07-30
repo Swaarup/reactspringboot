@@ -4,7 +4,7 @@ import java.util.List;
 
 import org.springframework.data.mongodb.repository.MongoRepository;
 
-import com.example.demo.docs.Item;
+import com.example.demo.domain.Item;
 
 public interface ItemRepository extends MongoRepository <Item, Long>{
 	

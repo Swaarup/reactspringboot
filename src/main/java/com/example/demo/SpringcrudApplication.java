@@ -8,7 +8,7 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.security.crypto.password.PasswordEncoder;
 
-import com.example.demo.docs.User;
+import com.example.demo.domain.User;
 import com.example.demo.repository.UserRepository;
 
 @SpringBootApplication
