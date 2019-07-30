@@ -1,4 +1,4 @@
-package com.example.demo.docs;
+package com.example.demo.domain;
 
 import java.util.List;
 
